@@ -6,6 +6,13 @@
 This is a sample text with {{fcards}}important content{{/fcards}} that should be marked.
 Another line with {{fcards}}another important segment{{/fcards}}.
 ```
+- Output will be a txt file with:
+
+```
+- important content
+- another important segment.
+```
+
 
 ### Set the Variables within the main function:
 
