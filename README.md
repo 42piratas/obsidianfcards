@@ -6,7 +6,7 @@
 This is a sample text with {{fcards}}important content{{/fcards}} that should be marked.
 Another line with {{fcards}}another important segment{{/fcards}}.
 ```
-- Output: a txt file with:
+- Output: a `txt` file with:
 
 ```
 - important content
