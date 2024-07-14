@@ -2,7 +2,7 @@
 
 This script will navigate through your [Obsidian](https://obsidian.md/) notes to collect marked word/sentences/pagraphs, adding them to a raw list (each marked passage as a bullet point) and finally exporting them to a `txt` file.
 
-The script was first written with the idea of creating flash cards (thus fcards) with key passages from diverse notes.
+fcards was written with the idea of creating flash cards with key passages from diverse notes.
 
 ### Marking/Selecting Content
 
